@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
+.claude/settings.local.json
+
+# Configuración privada de Claude (formador, rutas de la máquina)
+CLAUDE.local.md
+.claude/skills/formador-master/
